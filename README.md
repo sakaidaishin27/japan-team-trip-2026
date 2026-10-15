@@ -1,4 +1,4 @@
-# Japan, Together - November 2026
+# OKA Kickboxing Club - Japan Trip 2026
 
 A photo travel guide for a proposed 9-night team trip through Tokyo, Kyoto and Osaka.
 
