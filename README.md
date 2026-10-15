@@ -3,7 +3,6 @@
 A photo travel guide for a proposed 9-night team trip through Tokyo, Kyoto and Osaka.
 
 - [Open the public guide](https://sakaidaishin27.github.io/japan-team-trip-2026/)
-- [Download the English PDF](Japan-Team-Trip-November-2026.pdf)
 
 Four travelers. Two rooms. Kyoto kaiseki dinner and breakfast included; city hotels are room only.
 
