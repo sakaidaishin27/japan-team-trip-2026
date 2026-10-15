@@ -1,0 +1,68 @@
+[
+  {
+    "id": "tokyo",
+    "url": "https://www.gardenhotels.co.jp/assets/images/ginza-premier/home-2025/top-about-bg.jpg",
+    "credit": "Mitsui Garden Hotel Ginza PREMIER",
+    "source": "https://www.gardenhotels.co.jp/ginza-premier/eng/",
+    "size": [
+      1800,
+      1195
+    ],
+    "path": "assets/tokyo.jpg"
+  },
+  {
+    "id": "yutone",
+    "url": "https://www.m-yutone.com/room/img/main_fig1.jpg",
+    "credit": "Muromachi Yutone",
+    "source": "https://www.m-yutone.com/room/",
+    "size": [
+      738,
+      469
+    ],
+    "path": "assets/yutone.jpg"
+  },
+  {
+    "id": "kaiseki",
+    "url": "https://www.m-yutone.com/meal/img/sec3_img02.jpg",
+    "credit": "Muromachi Yutone - seasonal Kyoto kaiseki example",
+    "source": "https://www.m-yutone.com/meal/",
+    "size": [
+      521,
+      350
+    ],
+    "path": "assets/kaiseki.jpg"
+  },
+  {
+    "id": "osaka",
+    "url": "https://www.hotelkeihan.co.jp/datas/images/2024/12/26/cad556d3cf5e5c861ed36cea48f3f1d7e840d4b7.jpg",
+    "credit": "Hotel Keihan Namba Grande - twin-room example",
+    "source": "https://www.hotelkeihan.co.jp/namba/guestroom/6/",
+    "size": [
+      1170,
+      728
+    ],
+    "path": "assets/osaka.jpg"
+  },
+  {
+    "id": "daiwa",
+    "url": "https://www.daiwaroynet.jp/datas/cache/images/2026/04/25/790x658_ea1e9d427fb5664c32c517a73e421e58_b9cd4ec5530938f1b24768260561811b66f24769.jpg",
+    "credit": "Daiwa Roynet Hotel Ginza PREMIER",
+    "source": "https://www.daiwaroynet.jp/ginza/",
+    "size": [
+      790,
+      658
+    ],
+    "path": "assets/daiwa.jpg"
+  },
+  {
+    "id": "one",
+    "url": "https://cdn.onefc.com/wp-content/uploads/2026/08/261118-OS5-1800x1200px-768x512.jpg",
+    "credit": "ONE Championship - official event artwork",
+    "source": "https://www.onefc.com/events/one-samurai-5/",
+    "size": [
+      768,
+      512
+    ],
+    "path": "assets/one.jpg"
+  }
+]
