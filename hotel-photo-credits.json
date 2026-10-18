@@ -1,0 +1,145 @@
+[
+  {
+    "id": "vista-moderate",
+    "url": "https://www.hotel-vista.jp/uploads/tokyo-tsukiji/img/room/slide_e_1.jpg",
+    "credit": "Hotel Vista Tokyo Tsukiji — Moderate Twin B",
+    "source": "https://tokyo-tsukiji.hotel-vista.jp/ja/rooms",
+    "size": [
+      900,
+      600
+    ],
+    "path": "assets/hotels/vista-moderate.jpg"
+  },
+  {
+    "id": "vista-comfort",
+    "url": "https://www.hotel-vista.jp/uploads/tokyo-tsukiji/img/room/slide_h_1.jpg",
+    "credit": "Hotel Vista Tokyo Tsukiji — Comfort Twin A (Wa COOL)",
+    "source": "https://tokyo-tsukiji.hotel-vista.jp/ja/rooms",
+    "size": [
+      900,
+      600
+    ],
+    "path": "assets/hotels/vista-comfort.jpg"
+  },
+  {
+    "id": "vista-exterior",
+    "url": "https://www.hotel-vista.jp/uploads/tokyo-tsukiji/img/top/appearance.jpg",
+    "credit": "Hotel Vista Tokyo Tsukiji — exterior",
+    "source": "https://tokyo-tsukiji.hotel-vista.jp/ja/",
+    "size": [
+      478,
+      478
+    ],
+    "path": "assets/hotels/vista-exterior.jpg"
+  },
+  {
+    "id": "ranzan-twin",
+    "url": "https://manager.reservation.jp/cmn/img/facility/10000001/M/1709859249398761.jpg",
+    "credit": "Ranzan — 30 m² twin room",
+    "source": "https://go-smile-hotel-chain.reservation.jp/ja/hotels/kyoto-ranzan/rooms/10039204",
+    "size": [
+      840,
+      560
+    ],
+    "path": "assets/hotels/ranzan-twin.jpg"
+  },
+  {
+    "id": "ranzan-twin-2",
+    "url": "https://manager.reservation.jp/cmn/img/facility/10000001/M/1709816834691664.jpg",
+    "credit": "Ranzan — 30 m² twin room",
+    "source": "https://go-smile-hotel-chain.reservation.jp/ja/hotels/kyoto-ranzan/rooms/10039204",
+    "size": [
+      840,
+      560
+    ],
+    "path": "assets/hotels/ranzan-twin-2.jpg"
+  },
+  {
+    "id": "ranzan-kaiseki",
+    "url": "https://manager.reservation.jp/cmn/img/facility/10000001/M/1709822050687763.jpg",
+    "credit": "Ranzan — Zeitaku kaiseki plan; sample menu",
+    "source": "https://go-smile-hotel-chain.reservation.jp/ja/hotels/kyoto-ranzan/rooms/10039204?plan_id=10129412",
+    "size": [
+      840,
+      560
+    ],
+    "path": "assets/hotels/ranzan-kaiseki.jpg"
+  },
+  {
+    "id": "ranzan-exterior",
+    "url": "https://www.kyoto-ranzan.jp/img/main_bg07.jpg",
+    "credit": "Ranzan — hotel setting",
+    "source": "https://www.kyoto-ranzan.jp/",
+    "size": [
+      1800,
+      420
+    ],
+    "path": "assets/hotels/ranzan-exterior.jpg"
+  },
+  {
+    "id": "cita-twin",
+    "url": "https://www.discoverasr.com/assets/tal/media/images/properties/japan/osaka/citadines-namba-osaka/apartment-types/deluxetwin/deluxetwin1.jpg.transform/ascott-lowres/image.jpg",
+    "credit": "Citadines Namba Osaka — Deluxe Twin",
+    "source": "https://www.discoverasr.com/ja/citadines/japan/citadines-namba-osaka/deluxe-twin",
+    "size": [
+      760,
+      507
+    ],
+    "path": "assets/hotels/cita-twin.jpg"
+  },
+  {
+    "id": "cita-twin-2",
+    "url": "https://www.discoverasr.com/assets/tal/media/images/properties/japan/osaka/citadines-namba-osaka/apartment-types/deluxetwin/deluxetwin2.jpg.transform/ascott-lowres/image.jpg",
+    "credit": "Citadines Namba Osaka — Deluxe Twin",
+    "source": "https://www.discoverasr.com/ja/citadines/japan/citadines-namba-osaka/deluxe-twin",
+    "size": [
+      760,
+      507
+    ],
+    "path": "assets/hotels/cita-twin-2.jpg"
+  },
+  {
+    "id": "cita-exterior",
+    "url": "https://www.discoverasr.com/assets/tal/media/images/properties/japan/osaka/citadines-namba-osaka/gallery/SR_Japan_Osaka_Citadines-Namba-Osaka_Exterior-768x531.jpg.transform/ascott-lowres/image.jpg",
+    "credit": "Citadines Namba Osaka — exterior",
+    "source": "https://www.discoverasr.com/ja/citadines/japan/citadines-namba-osaka",
+    "size": [
+      760,
+      525
+    ],
+    "path": "assets/hotels/cita-exterior.jpg"
+  },
+  {
+    "id": "mitsui-twin",
+    "url": "https://www.gardenhotels.co.jp/assets/images/shiodome-italiagai/room/superior-twin/01_2604.jpg",
+    "credit": "Mitsui Garden Hotel Shiodome Italia-gai — Superior Twin",
+    "source": "https://www.gardenhotels.co.jp/shiodome-italiagai/room/",
+    "size": [
+      960,
+      540
+    ],
+    "path": "assets/hotels/mitsui-twin.jpg"
+  },
+  {
+    "id": "mitsui-twin-2",
+    "url": "https://www.gardenhotels.co.jp/assets/images/shiodome-italiagai/room/superior-twin/02_2604.jpg",
+    "credit": "Mitsui Garden Hotel Shiodome Italia-gai — Superior Twin",
+    "source": "https://www.gardenhotels.co.jp/shiodome-italiagai/room/",
+    "size": [
+      960,
+      540
+    ],
+    "path": "assets/hotels/mitsui-twin-2.jpg"
+  },
+  {
+    "id": "mitsui-setting",
+    "url": "https://www.gardenhotels.co.jp/assets/images/shiodome-italiagai/home/mv-pc-01_2604.jpg",
+    "credit": "Mitsui Garden Hotel Shiodome Italia-gai — hotel setting",
+    "source": "https://www.gardenhotels.co.jp/shiodome-italiagai/",
+    "size": [
+      1280,
+      750
+    ],
+    "path": "assets/hotels/mitsui-setting.jpg"
+  }
+]
